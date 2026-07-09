@@ -100,6 +100,11 @@ Corporate document tracking & employee data visualization.
   <img src="https://skillicons.dev/icons?i=windows,nginx,git,github,vscode,postman&perline=12" />
 </p>
 
+<p align="center">
+  <strong>Embedded & Robotics</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=linux,raspberrypi,ros&perline=12" />
+</p>
+
 <br/>
 
 ## ⚡ Beyond the Screen
