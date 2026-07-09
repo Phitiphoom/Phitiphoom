@@ -18,6 +18,18 @@
 
 <br/>
 
+<div align="center">
+
+### 🏭 Factory Line — Live from the Floor
+
+<img width="100%" src="./assets/factory-line.svg" alt="Animated isometric factory conveyor line" />
+
+<sub>Pick-and-place + scan-station animation — same kind of real-time flow my MIS dashboards track on the shop floor.</sub>
+
+</div>
+
+<br/>
+
 ## 🌈 About Me
 
 <table>
