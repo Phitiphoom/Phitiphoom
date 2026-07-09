@@ -184,7 +184,15 @@ Farming Slogbones, one hunt at a time
 
 <img src="https://raw.githubusercontent.com/phitiphoom/phitiphoom/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<sub>Generated via <code>Platane/snk</code> GitHub Action — set up the workflow once and this animates automatically.</sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🧊 3D Contribution Graph
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 
 </div>
 
