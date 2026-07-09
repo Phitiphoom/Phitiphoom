@@ -20,9 +20,13 @@
 
 ## 🌈 About Me
 
+<table>
+<tr>
+<td width="60%" valign="middle">
+
 I build end-to-end web systems for manufacturing and corporate operations — bridging modern front-ends with legacy enterprise databases so data flows seamlessly from the shop floor to the executive dashboard.
 
-```
+```js
 const phitiphoom = {
   role: "Software Developer / MIS Specialist",
   stack: ["Next.js", "TypeScript", "Prisma", "SQL Server", ".NET"],
@@ -30,6 +34,15 @@ const phitiphoom = {
   funFact: "Farms Slogbones between deploys 🐉"
 };
 ```
+
+</td>
+<td width="40%" align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/gauravghongde/gauravghongde/master/Assets/Coding.gif" alt="Coding cartoon animation" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
