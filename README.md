@@ -8,9 +8,17 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Phitiphoom&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Phitiphoom's Trophies" />
+  </a>
+</div>
+
+<br/>
+
 ## 👨‍💻 About Me & What I Do
 
-I build end-to-end web systems for manufacturing and corporate operations. My focus is on bridging the gap between modern front-end frameworks and legacy enterprise databases, ensuring seamless data flow from the shop floor to the executive dashboard.
+I build end-to-end web systems for manufacturing and corporate operations. My focus is on bridging the gap between modern front-end frameworks and legacy enterprise databases, ensuring seamless data flow from the shop floor to the executive dashboard. 
 
 ### 🏗️ Core Capabilities
 - **Web Apps:** Modern front-ends backed by legacy enterprise databases (Next.js App Router, Server Actions).
@@ -57,10 +65,10 @@ Here are some of the core systems I've architected and developed to drive operat
 
 ## ⚡ Beyond the Screen
 
-When I'm not writing code, querying `SNCGROUP` databases, or debugging servers, you can find me:
-- 📈 **Analyzing Markets:** Focusing on high-growth tech and semiconductor trends (NVIDIA, ASML) for long-term financial independence.
-- 🚗 **Exploring Automotive Tech:** Keeping up with EV innovations and hybrid vehicles.
-- 🐉 **Gaming:** Hunting large monsters in *Monster Hunter World: Iceborne*.
+When I'm not writing code, querying `SNCGROUP` databases, or writing logic to check part numbers for MTT operations, you can find me:
+- 📈 **Analyzing Markets:** Focusing on high-growth tech and semiconductor trends (NVIDIA, ASML, Tesla, IONQ) with a target of retiring by 40 on dividend income.
+- 🚗 **Exploring Automotive Tech:** Evaluating specs, insurance costs, and innovations in the latest EV and Hybrid vehicles (Deepal S05, Geely EX5, Volvo S90).
+- 🐉 **Gaming:** Hunting large monsters and farming materials like Slogbones in *Monster Hunter World: Iceborne*.
 
 ---
 
@@ -68,17 +76,16 @@ When I'm not writing code, querying `SNCGROUP` databases, or debugging servers, 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Phitiphoom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phitiphoom&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phitiphoom&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
 
-**Activity Contribution Snake** 🐍
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/Phitiphoom/Phitiphoom/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-<!--END_SECTION:snake-->
+**3D Contribution Graph** 🧊
+<!-- ต้องตั้งค่า GitHub Actions สำหรับ 3D Contrib ก่อน รูปตึก 3 มิติ ถึงจะแสดงผลนะครับ -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 </div>
 
