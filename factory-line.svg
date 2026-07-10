@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 980 560" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <radialGradient id="bg" cx="30%" cy="20%" r="90%">
+    <stop offset="0%" stop-color="#161616"/>
+    <stop offset="55%" stop-color="#0c0c0d"/>
+    <stop offset="100%" stop-color="#050505"/>
+  </radialGradient>
+  <linearGradient id="beltGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#1a1a1c"/>
+    <stop offset="100%" stop-color="#0f0f10"/>
+  </linearGradient>
+  <filter id="redGlow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6"/>
+  </filter>
+</defs>
+
+<rect width="980" height="560" fill="url(#bg)"/>
+<g stroke="#ffffff" stroke-opacity="0.035" stroke-width="1">
+<line x1="72.0" y1="-53.0" x2="-392.0" y2="179.0"/>
+<line x1="130.0" y1="-24.0" x2="-334.0" y2="208.0"/>
+<line x1="188.0" y1="5.0" x2="-276.0" y2="237.0"/>
+<line x1="246.0" y1="34.0" x2="-218.0" y2="266.0"/>
+<line x1="304.0" y1="63.0" x2="-160.0" y2="295.0"/>
+<line x1="362.0" y1="92.0" x2="-102.0" y2="324.0"/>
+<line x1="420.0" y1="121.0" x2="-44.0" y2="353.0"/>
+<line x1="478.0" y1="150.0" x2="14.0" y2="382.0"/>
+<line x1="536.0" y1="179.0" x2="72.0" y2="411.0"/>
+<line x1="594.0" y1="208.0" x2="130.0" y2="440.0"/>
+<line x1="652.0" y1="237.0" x2="188.0" y2="469.0"/>
+<line x1="710.0" y1="266.0" x2="246.0" y2="498.0"/>
+<line x1="768.0" y1="295.0" x2="304.0" y2="527.0"/>
+<line x1="826.0" y1="324.0" x2="362.0" y2="556.0"/>
+<line x1="884.0" y1="353.0" x2="420.0" y2="585.0"/>
+<line x1="942.0" y1="382.0" x2="478.0" y2="614.0"/>
+<line x1="1000.0" y1="411.0" x2="536.0" y2="643.0"/>
+<line x1="1058.0" y1="440.0" x2="594.0" y2="672.0"/>
+<line x1="1116.0" y1="469.0" x2="652.0" y2="701.0"/>
+<line x1="1174.0" y1="498.0" x2="710.0" y2="730.0"/>
+<line x1="1232.0" y1="527.0" x2="768.0" y2="759.0"/>
+<line x1="1290.0" y1="556.0" x2="826.0" y2="788.0"/>
+<line x1="72.0" y1="-53.0" x2="1290.0" y2="556.0"/>
+<line x1="14.0" y1="-24.0" x2="1232.0" y2="585.0"/>
+<line x1="-44.0" y1="5.0" x2="1174.0" y2="614.0"/>
+<line x1="-102.0" y1="34.0" x2="1116.0" y2="643.0"/>
+<line x1="-160.0" y1="63.0" x2="1058.0" y2="672.0"/>
+<line x1="-218.0" y1="92.0" x2="1000.0" y2="701.0"/>
+<line x1="-276.0" y1="121.0" x2="942.0" y2="730.0"/>
+<line x1="-334.0" y1="150.0" x2="884.0" y2="759.0"/>
+<line x1="-392.0" y1="179.0" x2="826.0" y2="788.0"/>
+</g>
+<polygon points="69.1,87.6 637.5,371.9 573.7,403.8 5.3,119.5" fill="url(#beltGrad)" stroke="#e11d2e" stroke-width="2" stroke-opacity="0.9"/>
+<line x1="69.1" y1="87.6" x2="637.5" y2="371.9" stroke="#ff3b3b" stroke-width="2.4" stroke-opacity="0.85" filter="url(#redGlow)"/>
+<line x1="5.3" y1="119.5" x2="573.7" y2="403.8" stroke="#ff3b3b" stroke-width="2.4" stroke-opacity="0.85" filter="url(#redGlow)"/>
+<g stroke="#3a3a3d" stroke-width="1.4" opacity="0.6">
+<line x1="74.9" y1="90.6" x2="11.1" y2="122.5"/>
+<line x1="103.9" y1="105.0" x2="40.1" y2="136.9"/>
+<line x1="132.9" y1="119.5" x2="69.1" y2="151.4"/>
+<line x1="161.9" y1="134.1" x2="98.1" y2="165.9"/>
+<line x1="190.9" y1="148.6" x2="127.1" y2="180.4"/>
+<line x1="219.9" y1="163.1" x2="156.1" y2="194.9"/>
+<line x1="248.9" y1="177.6" x2="185.1" y2="209.4"/>
+<line x1="277.9" y1="192.1" x2="214.1" y2="223.9"/>
+<line x1="306.9" y1="206.6" x2="243.1" y2="238.4"/>
+<line x1="335.9" y1="221.1" x2="272.1" y2="252.9"/>
+<line x1="364.9" y1="235.6" x2="301.1" y2="267.4"/>
+<line x1="393.9" y1="250.1" x2="330.1" y2="281.9"/>
+<line x1="422.9" y1="264.6" x2="359.1" y2="296.4"/>
+<line x1="451.9" y1="279.1" x2="388.1" y2="310.9"/>
+<line x1="480.9" y1="293.6" x2="417.1" y2="325.4"/>
+<line x1="509.9" y1="308.1" x2="446.1" y2="339.9"/>
+<line x1="538.9" y1="322.6" x2="475.1" y2="354.4"/>
+<line x1="567.9" y1="337.1" x2="504.1" y2="368.9"/>
+<line x1="596.9" y1="351.6" x2="533.1" y2="383.5"/>
+<line x1="625.9" y1="366.1" x2="562.1" y2="398.0"/>
+</g>
+<g clip-path="url(#beltClip)">
+
+<g>
+  <animateTransform attributeName="transform" type="translate"
+    values="0,0; 556.8,278.4" dur="7s" begin="-0.0s"
+    repeatCount="indefinite"/>
+  <polygon points="48.8,34.4 106.8,63.4 48.8,92.4 -9.2,63.4" fill="#eef0f2"/>
+<polygon points="-9.2,63.4 48.8,92.4 48.8,138.4 -9.2,109.4" fill="#c7cbd1"/>
+<polygon points="48.8,92.4 106.8,63.4 106.8,109.4 48.8,138.4" fill="#9aa0a8"/>
+<polygon points="28.5,44.6 86.5,73.6 70.8,81.4 12.8,52.4" fill="#e11d2e"/>
+<polygon points="69.1,82.2 84.8,74.4 84.8,120.4 69.1,128.2" fill="#e11d2e" opacity="0.9"/>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate"
+    values="0,0; 556.8,278.4" dur="7s" begin="-1.1666666666666667s"
+    repeatCount="indefinite"/>
+  <polygon points="135.8,77.9 193.8,106.9 135.8,135.9 77.8,106.9" fill="#eef0f2"/>
+<polygon points="77.8,106.9 135.8,135.9 135.8,181.9 77.8,152.9" fill="#c7cbd1"/>
+<polygon points="135.8,135.9 193.8,106.9 193.8,152.9 135.8,181.9" fill="#9aa0a8"/>
+<polygon points="115.5,88.1 173.5,117.1 157.8,124.9 99.8,95.9" fill="#e11d2e"/>
+<polygon points="156.1,125.8 171.8,117.9 171.8,163.9 156.1,171.8" fill="#e11d2e" opacity="0.9"/>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate"
+    values="0,0; 556.8,278.4" dur="7s" begin="-2.3333333333333335s"
+    repeatCount="indefinite"/>
+  <polygon points="222.8,121.4 280.8,150.4 222.8,179.4 164.8,150.4" fill="#eef0f2"/>
+<polygon points="164.8,150.4 222.8,179.4 222.8,225.4 164.8,196.4" fill="#c7cbd1"/>
+<polygon points="222.8,179.4 280.8,150.4 280.8,196.4 222.8,225.4" fill="#9aa0a8"/>
+<polygon points="202.5,131.6 260.5,160.6 244.8,168.4 186.8,139.4" fill="#e11d2e"/>
+<polygon points="243.1,169.2 258.8,161.4 258.8,207.4 243.1,215.2" fill="#e11d2e" opacity="0.9"/>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate"
+    values="0,0; 556.8,278.4" dur="7s" begin="-3.5s"
+    repeatCount="indefinite"/>
+  <polygon points="309.8,164.9 367.8,193.9 309.8,222.9 251.8,193.9" fill="#ff4d4f"/>
+<polygon points="251.8,193.9 309.8,222.9 309.8,268.9 251.8,239.9" fill="#c81e2c"/>
+<polygon points="309.8,222.9 367.8,193.9 367.8,239.9 309.8,268.9" fill="#8f1420"/>
+<polygon points="289.5,175.1 347.5,204.1 331.8,211.9 273.8,182.9" fill="#ffffff"/>
+<polygon points="330.1,212.8 345.8,204.9 345.8,250.9 330.1,258.8" fill="#ffffff" opacity="0.9"/>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate"
+    values="0,0; 556.8,278.4" dur="7s" begin="-4.666666666666667s"
+    repeatCount="indefinite"/>
+  <polygon points="396.8,208.4 454.8,237.4 396.8,266.4 338.8,237.4" fill="#eef0f2"/>
+<polygon points="338.8,237.4 396.8,266.4 396.8,312.4 338.8,283.4" fill="#c7cbd1"/>
+<polygon points="396.8,266.4 454.8,237.4 454.8,283.4 396.8,312.4" fill="#9aa0a8"/>
+<polygon points="376.5,218.5 434.5,247.5 418.8,255.4 360.8,226.4" fill="#e11d2e"/>
+<polygon points="417.1,256.2 432.8,248.4 432.8,294.4 417.1,302.2" fill="#e11d2e" opacity="0.9"/>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate"
+    values="0,0; 556.8,278.4" dur="7s" begin="-5.833333333333334s"
+    repeatCount="indefinite"/>
+  <polygon points="483.8,251.9 541.8,280.9 483.8,309.9 425.8,280.9" fill="#eef0f2"/>
+<polygon points="425.8,280.9 483.8,309.9 483.8,355.9 425.8,326.9" fill="#c7cbd1"/>
+<polygon points="483.8,309.9 541.8,280.9 541.8,326.9 483.8,355.9" fill="#9aa0a8"/>
+<polygon points="463.5,262.0 521.5,291.0 505.8,298.9 447.8,269.9" fill="#e11d2e"/>
+<polygon points="504.1,299.8 519.8,291.9 519.8,337.9 504.1,345.8" fill="#e11d2e" opacity="0.9"/>
+</g>
+</g>
+<clipPath id="beltClip"><path d="M -80 -40 L 980 -40 L 980 600 L -80 600 Z"/></clipPath>
+
+<g>
+  <!-- pedestal -->
+  <rect x="325.9" y="151.1" width="20" height="70" fill="#161618" stroke="#2a2a2d"/>
+  <rect x="319.9" y="215.1" width="32" height="10" fill="#0c0c0d" stroke="#2a2a2d"/>
+  <g transform="translate(335.9,151.1)">
+    <animateTransform attributeName="transform" type="rotate" additive="sum"
+      values="-18 0 0; 12 0 0; -18 0 0" dur="2.6s" repeatCount="indefinite"
+      calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    <rect x="-6" y="-8" width="12" height="16" rx="3" fill="#d61f2c"/>
+    <rect x="0" y="-5" width="76" height="10" rx="4" fill="#e11d2e" filter="url(#redGlow)"/>
+    <g transform="translate(76,0)">
+      <rect x="-4" y="-4" width="18" height="8" rx="2" fill="#8f1420"/>
+      <line x1="14" y1="0" x2="26" y2="-10" stroke="#8f1420" stroke-width="5" stroke-linecap="round"/>
+      <line x1="14" y1="0" x2="26" y2="10" stroke="#8f1420" stroke-width="5" stroke-linecap="round"/>
+    </g>
+  </g>
+</g>
+
+
+<g>
+  <rect x="325.9" y="104.1" width="118" height="34" rx="4" fill="#0b0b0c" fill-opacity="0.82" stroke="#2a2a2d"/>
+  <rect x="325.9" y="104.1" width="4" height="34" fill="#e11d2e"/>
+  <text x="341.9" y="126.1" font-family="Consolas, 'Fira Code', monospace" font-size="15" font-weight="700" fill="#f2f2f2" letter-spacing="0.5">PICK-03</text>
+</g>
+
+<g>
+  <rect x="513.5" y="207.2" width="16" height="95" fill="#141416" stroke="#2a2a2d"/>
+  <rect x="426.5" y="250.8" width="16" height="95" fill="#141416" stroke="#2a2a2d"/>
+  <polygon points="521.5,207.2 434.5,250.8 434.5,236.8 521.5,193.2" fill="#1c1c1f" stroke="#2a2a2d"/>
+  <polygon points="521.5,213.2 434.5,256.8 434.5,331.8 521.5,288.2" fill="#e11d2e" opacity="0.28">
+    <animate attributeName="opacity" values="0.15;0.5;0.15" dur="1.8s" repeatCount="indefinite"/>
+  </polygon>
+</g>
+
+
+<g>
+  <rect x="551.5" y="160.2" width="118" height="34" rx="4" fill="#0b0b0c" fill-opacity="0.82" stroke="#2a2a2d"/>
+  <rect x="551.5" y="160.2" width="4" height="34" fill="#e11d2e"/>
+  <text x="567.5" y="182.2" font-family="Consolas, 'Fira Code', monospace" font-size="15" font-weight="700" fill="#f2f2f2" letter-spacing="0.5">SCAN-02</text>
+</g>
+</svg>
