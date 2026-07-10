@@ -1,13 +1,15 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Phitiphoom%20Chomburan&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20MIS%20Specialist&descAlignY=65&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,15:FF9900,30:FFEE00,50:33CC33,65:00CFFF,80:6A5CFF,100:FF2FD0&height=220&section=header&text=Phitiphoom%20Chomburan&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20MIS%20Specialist&descAlignY=65&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585,4361EE,4CC9F0,7209B7,3A0CA3&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Next.js+%2B+TypeScript+Apps;Architecting+Factory+MIS+Dashboards;SQL+Server+%2B+Prisma+Integration;Bridging+Legacy+DBs+with+Modern+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0033,FF9900,FFEE00,33FF33,00E5FF,7B2FF7,FF2FD0&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Next.js+%2B+TypeScript+Apps;Architecting+Factory+MIS+Dashboards;SQL+Server+%2B+Prisma+Integration;Bridging+Legacy+DBs+with+Modern+Web" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=phitiphoom&label=Profile%20Views&color=f72585&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20to-Collab-4CC9F0?style=for-the-badge&logo=handshake&logoColor=white" />
-<img src="https://img.shields.io/badge/Based%20in-Thailand-7209B7?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=phitiphoom&label=Profile%20Views&color=FF0033&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Collab-FF9900?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Based%20in-Thailand-33CC33?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/RGB%20Mode-MAX-00E5FF?style=for-the-badge&logo=lightning&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Shipping-FF2FD0?style=for-the-badge&logo=rocket&logoColor=white" />
 
 <br/><br/>
 
@@ -16,7 +18,7 @@
 </a>
 </div>
 
-<br/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,15:FF9900,30:FFEE00,50:33CC33,65:00CFFF,80:6A5CFF,100:FF2FD0&height=6"/>
 
 <div align="center">
 
@@ -24,11 +26,11 @@
 
 <img width="100%" src="./assets/factory-line.svg" alt="Animated isometric factory conveyor line" />
 
-<sub>Pick-and-place + scan-station animation — same kind of real-time flow my MIS dashboards track on the shop floor.</sub>
+<sub>Pick-and-place + scan-station animation, now RGB-cycling — same real-time flow my MIS dashboards track on the shop floor.</sub>
 
 </div>
 
-<br/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2FD0,25:6A5CFF,50:00CFFF,75:33CC33,100:FFEE00&height=6"/>
 
 ## 🌈 About Me
 
@@ -56,7 +58,7 @@ const phitiphoom = {
 </tr>
 </table>
 
-<br/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFEE00,25:33CC33,50:00CFFF,75:6A5CFF,100:FF2FD0&height=6"/>
 
 ## 🏗️ Core Capabilities
 
@@ -67,7 +69,7 @@ const phitiphoom = {
 | 🖨️ | **Print Pipelines** | .NET print services, FastReport templates, automated PDF generation |
 | 🖥️ | **Infrastructure** | Windows Server, reverse proxies (IIS/Nginx), self-contained .NET deployments |
 
-<br/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,20:FF9900,40:FFEE00,60:33CC33,80:00CFFF,100:FF2FD0&height=6"/>
 
 ## 🚀 Featured Systems & Projects
 
@@ -78,9 +80,9 @@ const phitiphoom = {
 ### 🏭 Dely PL Dashboard
 Real-time production planning & factory floor metrics dashboard.
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-FF0033?style=flat-square&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-6A5CFF?style=flat-square&logo=prisma&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-00CFFF?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
@@ -88,9 +90,9 @@ Real-time production planning & factory floor metrics dashboard.
 ### 🎫 IT-Helpdesk System
 Support ticketing platform streamlining internal operations.
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NextAuth](https://img.shields.io/badge/-NextAuth-000?style=flat-square)
+![React](https://img.shields.io/badge/-React-00E5FF?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-33CC33?style=flat-square&logo=typescript&logoColor=white)
+![NextAuth](https://img.shields.io/badge/-NextAuth-FF9900?style=flat-square&logo=auth0&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
@@ -98,15 +100,15 @@ Support ticketing platform streamlining internal operations.
 ### 📁 HR & Doc Control
 Corporate document tracking & employee data visualization.
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET_Print-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-FF2FD0?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-00CFFF?style=flat-square&logo=tailwindcss&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET_Print-6A5CFF?style=flat-square&logo=dotnet&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2FD0,20:6A5CFF,40:00CFFF,60:33CC33,80:FFEE00,100:FF0000&height=6"/>
 
 ## 💻 Tech Stack & Tools
 
@@ -130,7 +132,7 @@ Corporate document tracking & employee data visualization.
   <img src="https://skillicons.dev/icons?i=linux,raspberrypi,ros&perline=12" />
 </p>
 
-<br/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,15:FF9900,30:FFEE00,50:33CC33,65:00CFFF,80:6A5CFF,100:FF2FD0&height=6"/>
 
 ## ⚡ Beyond the Screen
 
@@ -163,17 +165,17 @@ Farming Slogbones, one hunt at a time
 </tr>
 </table>
 
-<br/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2FD0,25:6A5CFF,50:00CFFF,75:33CC33,100:FFEE00&height=6"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=phitiphoom&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=phitiphoom&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phitiphoom&theme=radical&hide_border=true&ring=00E5FF&fire=FF2FD0&background=0D1117" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phitiphoom&theme=react-dark&hide_border=true&bg_color=00000000&color=f72585&line=4cc9f0&point=ffffff" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phitiphoom&theme=react-dark&hide_border=true&bg_color=00000000&color=FF2FD0&line=00E5FF&point=FFEE00" width="97%" />
 </div>
 
 <br/>
@@ -196,8 +198,8 @@ Farming Slogbones, one hunt at a time
 
 </div>
 
-<br/>
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,15:FF9900,30:FFEE00,50:33CC33,65:00CFFF,80:6A5CFF,100:FF2FD0&height=6"/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2FD0,20:6A5CFF,40:00CFFF,60:33CC33,80:FFEE00,100:FF0000&height=120&section=footer"/>
 </div>
