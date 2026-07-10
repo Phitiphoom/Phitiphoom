@@ -26,7 +26,7 @@
 
 <img width="100%" src="./assets/factory-line.svg" alt="Animated isometric factory conveyor line" />
 
-<sub>Pick-and-place + scan-station animation, now RGB-cycling — same real-time flow my MIS dashboards track on the shop floor.</sub>
+<sub>Pick-and-place + scan-station animation — same real-time flow my MIS dashboards track on the shop floor.</sub>
 
 </div>
 
