@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="rainbowBg" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#FF0000"/>
+    <stop offset="15%" stop-color="#FF9900"/>
+    <stop offset="30%" stop-color="#FFEE00"/>
+    <stop offset="50%" stop-color="#33CC33"/>
+    <stop offset="65%" stop-color="#00CFFF"/>
+    <stop offset="80%" stop-color="#6A5CFF"/>
+    <stop offset="100%" stop-color="#FF2FD0"/>
+  </linearGradient>
+  <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+    <stop offset="60%" stop-color="#000000" stop-opacity="0.15"/>
+    <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+  </linearGradient>
+  <filter id="bulbGlow" x="-300%" y="-300%" width="700%" height="700%">
+    <feGaussianBlur stdDeviation="3.2" result="b"/>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <filter id="textShadow" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.55"/>
+  </filter>
+</defs>
+
+<rect x="0" y="0" width="1200" height="280" rx="22" fill="url(#rainbowBg)"/>
+<rect x="0" y="0" width="1200" height="280" rx="22" fill="url(#fade)"/>
+<rect x="16" y="16" width="1168" height="248" rx="16" fill="none" stroke="#000000" stroke-opacity="0.25" stroke-width="1.5"/>
+
+<circle cx="16.0" cy="16.0" r="4.2" fill="#f32424" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.000s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="46.1" cy="16.0" r="4.2" fill="#f33224" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.043s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="76.3" cy="16.0" r="4.2" fill="#f33f24" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.085s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="106.4" cy="16.0" r="4.2" fill="#f34c24" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.128s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="136.5" cy="16.0" r="4.2" fill="#f35924" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.170s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="166.6" cy="16.0" r="4.2" fill="#f36624" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.213s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="196.8" cy="16.0" r="4.2" fill="#f37424" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.255s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="226.9" cy="16.0" r="4.2" fill="#f38124" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.298s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="257.0" cy="16.0" r="4.2" fill="#f38e24" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.340s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="287.1" cy="16.0" r="4.2" fill="#f39b24" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.383s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="317.3" cy="16.0" r="4.2" fill="#f3a824" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.426s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="347.4" cy="16.0" r="4.2" fill="#f3b524" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.468s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="377.5" cy="16.0" r="4.2" fill="#f3c324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.511s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="407.7" cy="16.0" r="4.2" fill="#f3d024" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.553s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="437.8" cy="16.0" r="4.2" fill="#f3dd24" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.596s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="467.9" cy="16.0" r="4.2" fill="#f3ea24" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.638s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="498.0" cy="16.0" r="4.2" fill="#eff324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.681s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="528.2" cy="16.0" r="4.2" fill="#e1f324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.723s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="558.3" cy="16.0" r="4.2" fill="#d4f324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.766s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="588.4" cy="16.0" r="4.2" fill="#c7f324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.809s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="618.6" cy="16.0" r="4.2" fill="#baf324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.851s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="648.7" cy="16.0" r="4.2" fill="#adf324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.894s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="678.8" cy="16.0" r="4.2" fill="#a0f324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.936s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="708.9" cy="16.0" r="4.2" fill="#92f324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-0.979s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="739.1" cy="16.0" r="4.2" fill="#85f324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.021s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="769.2" cy="16.0" r="4.2" fill="#78f324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.064s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="799.3" cy="16.0" r="4.2" fill="#6bf324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.106s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="829.4" cy="16.0" r="4.2" fill="#5ef324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.149s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="859.6" cy="16.0" r="4.2" fill="#50f324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.191s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="889.7" cy="16.0" r="4.2" fill="#43f324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.234s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="919.8" cy="16.0" r="4.2" fill="#36f324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.277s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="950.0" cy="16.0" r="4.2" fill="#29f324" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.319s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="980.1" cy="16.0" r="4.2" fill="#24f32d" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.362s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1010.2" cy="16.0" r="4.2" fill="#24f33a" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.404s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1040.3" cy="16.0" r="4.2" fill="#24f348" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.447s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1070.5" cy="16.0" r="4.2" fill="#24f355" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.489s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1100.6" cy="16.0" r="4.2" fill="#24f362" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.532s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1130.7" cy="16.0" r="4.2" fill="#24f36f" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.574s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1160.9" cy="16.0" r="4.2" fill="#24f37c" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.617s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1184.0" cy="23.0" r="4.2" fill="#24f38a" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.660s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1184.0" cy="53.1" r="4.2" fill="#24f397" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.702s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1184.0" cy="83.2" r="4.2" fill="#24f3a4" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.745s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1184.0" cy="113.4" r="4.2" fill="#24f3b1" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.787s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1184.0" cy="143.5" r="4.2" fill="#24f3be" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.830s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1184.0" cy="173.6" r="4.2" fill="#24f3cb" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.872s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1184.0" cy="203.7" r="4.2" fill="#24f3d9" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.915s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1184.0" cy="233.9" r="4.2" fill="#24f3e6" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-1.957s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1184.0" cy="264.0" r="4.2" fill="#24f3f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.000s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1153.9" cy="264.0" r="4.2" fill="#24e6f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.043s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1123.7" cy="264.0" r="4.2" fill="#24d9f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.085s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1093.6" cy="264.0" r="4.2" fill="#24cbf3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.128s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1063.5" cy="264.0" r="4.2" fill="#24bef3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.170s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1033.4" cy="264.0" r="4.2" fill="#24b1f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.213s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="1003.2" cy="264.0" r="4.2" fill="#24a4f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.255s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="973.1" cy="264.0" r="4.2" fill="#2497f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.298s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="943.0" cy="264.0" r="4.2" fill="#248af3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.340s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="912.9" cy="264.0" r="4.2" fill="#247cf3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.383s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="882.7" cy="264.0" r="4.2" fill="#246ff3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.426s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="852.6" cy="264.0" r="4.2" fill="#2462f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.468s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="822.5" cy="264.0" r="4.2" fill="#2455f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.511s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="792.3" cy="264.0" r="4.2" fill="#2448f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.553s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="762.2" cy="264.0" r="4.2" fill="#243af3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.596s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="732.1" cy="264.0" r="4.2" fill="#242df3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.638s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="702.0" cy="264.0" r="4.2" fill="#2924f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.681s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="671.8" cy="264.0" r="4.2" fill="#3624f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.723s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="641.7" cy="264.0" r="4.2" fill="#4324f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.766s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="611.6" cy="264.0" r="4.2" fill="#5024f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.809s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="581.4" cy="264.0" r="4.2" fill="#5e24f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.851s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="551.3" cy="264.0" r="4.2" fill="#6b24f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.894s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="521.2" cy="264.0" r="4.2" fill="#7824f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.936s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="491.1" cy="264.0" r="4.2" fill="#8524f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-2.979s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="460.9" cy="264.0" r="4.2" fill="#9224f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.021s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="430.8" cy="264.0" r="4.2" fill="#a024f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.064s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="400.7" cy="264.0" r="4.2" fill="#ad24f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.106s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="370.6" cy="264.0" r="4.2" fill="#ba24f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.149s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="340.4" cy="264.0" r="4.2" fill="#c724f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.191s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="310.3" cy="264.0" r="4.2" fill="#d424f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.234s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="280.2" cy="264.0" r="4.2" fill="#e124f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.277s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="250.0" cy="264.0" r="4.2" fill="#ef24f3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.319s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="219.9" cy="264.0" r="4.2" fill="#f324ea" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.362s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="189.8" cy="264.0" r="4.2" fill="#f324dd" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.404s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="159.7" cy="264.0" r="4.2" fill="#f324d0" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.447s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="129.5" cy="264.0" r="4.2" fill="#f324c3" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.489s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="99.4" cy="264.0" r="4.2" fill="#f324b5" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.532s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="69.3" cy="264.0" r="4.2" fill="#f324a8" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.574s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="39.1" cy="264.0" r="4.2" fill="#f3249b" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.617s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="16.0" cy="257.0" r="4.2" fill="#f3248e" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.660s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="16.0" cy="226.9" r="4.2" fill="#f32481" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.702s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="16.0" cy="196.8" r="4.2" fill="#f32474" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.745s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="16.0" cy="166.6" r="4.2" fill="#f32466" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.787s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="16.0" cy="136.5" r="4.2" fill="#f32459" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.830s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="16.0" cy="106.4" r="4.2" fill="#f3244c" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.872s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="16.0" cy="76.3" r="4.2" fill="#f3243f" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.915s" repeatCount="indefinite"/>
+  </circle>
+<circle cx="16.0" cy="46.1" r="4.2" fill="#f32432" filter="url(#bulbGlow)">
+    <animate attributeName="opacity" values="0.18;1;0.18" keyTimes="0;0.5;1" dur="4.0s" begin="-3.957s" repeatCount="indefinite"/>
+  </circle>
+
+<text x="600.0" y="156.8" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="800" fill="#ffffff" filter="url(#textShadow)">Phitiphoom Chomburan</text>
+<text x="600.0" y="201.6" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600" fill="#f2f2f2" filter="url(#textShadow)">Software Developer | MIS Specialist</text>
+
+</svg>
