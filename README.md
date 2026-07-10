@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,15:FF9900,30:FFEE00,50:33CC33,65:00CFFF,80:6A5CFF,100:FF2FD0&height=220&section=header&text=Phitiphoom%20Chomburan&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20MIS%20Specialist&descAlignY=65&descSize=20"/>
+<img width="100%" src="./assets/header-banner.svg" alt="Phitiphoom Chomburan — animated RGB chase-light banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0033,FF9900,FFEE00,33FF33,00E5FF,7B2FF7,FF2FD0&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Next.js+%2B+TypeScript+Apps;Architecting+Factory+MIS+Dashboards;SQL+Server+%2B+Prisma+Integration;Bridging+Legacy+DBs+with+Modern+Web" alt="Typing SVG" />
 
